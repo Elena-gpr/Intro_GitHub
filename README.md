@@ -1,7 +1,9 @@
 # Intro_GitHub
  Sesión SFWT
 
-# Conceptos básico *
+## Conceptos básico 
 - Repositorio
 - Fork 
-- Branch  
+- Branch 
+
+## Insertar imagen 
