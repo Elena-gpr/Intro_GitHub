@@ -7,4 +7,4 @@
 - Branch 
 
 ## Insertar imagen 
-![git_hub](img/descarga(1).png)
+![git_hub](img/descarga.png)
