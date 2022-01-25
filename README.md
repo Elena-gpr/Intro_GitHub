@@ -1,10 +1,5 @@
 # Intro_GitHub
- Sesión SFWT
-
-## Conceptos básico 
-- Repositorio
-- Fork 
-- Branch 
+Aquí se subirán algunas actividades respecto a SFWT
 
 ## Insertar imagen 
 ![git_hub](img/descarga.png)
