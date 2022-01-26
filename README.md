@@ -5,4 +5,4 @@ Aquí se subirán algunas actividades respecto a SFWT
 - Introa_JS: Contiene los ejercicios de Introducción a JS
 
 ## Insertar imagen 
-![git_hub](img/descarga.png)
+![git_hub](img/hackacademy.png)
